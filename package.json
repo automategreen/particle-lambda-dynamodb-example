@@ -1,0 +1,14 @@
+{
+  "name": "particle-lambda-dynamodb-example",
+  "version": "1.0.0",
+  "description": "Example for populating dynamodb from particle",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Goode <brandon@automategreen.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dynamoose": "^0.8.5"
+  }
+}
